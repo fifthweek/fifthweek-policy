@@ -1,0 +1,21 @@
+# Privacy Policy
+
+## Last Modified: December 21, 2014<
+
+Fifthweek LTD. ("Fifthweek," "we," "us," or "our") takes the private nature of your information very seriously.
+
+This is why we are looking to implement a clear Privacy Policy as a matter of priority. We apologise for any inconvenience caused by not having this document available at present.
+
+## Modifications to this Privacy Policy
+
+Our Privacy Policy may change from time to time as per the process for modifications defined in our Terms of Service. Use of information we collect is subject to the Privacy Policy in effect at the time such information is collected.
+
+## Enquiries
+
+Please email us (hello@fifthweek.com) if you have any questions or concerns regarding privacy using this service.
+
+## Prior Versions
+          
+Prior versions of our Privacy Policy are available on GitHub, which also allows you to compare different versions and see what terms have changed:
+
+http://github.com/fifthweek/fifthweek-policy/commits/master/privacy-policy.txt
