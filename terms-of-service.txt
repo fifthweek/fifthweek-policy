@@ -20,6 +20,6 @@ Fifthweek retains the right to create limits on and related to use of the Servic
 
 ## Prior Versions
 
-Prior versions of our Privacy Policy are available on GitHub, which also allows you to compare different versions and see what terms have changed:
+Prior versions of our Terms of Service are available on GitHub, which also allows you to compare different versions and see what terms have changed:
 
 http://github.com/fifthweek/fifthweek-policy/commits/master/terms-of-service.txt
